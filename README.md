@@ -152,7 +152,7 @@ Hoje estudo **todos os dias** numa rotina de **squad ágil de verdade**: daily, 
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mih-camargo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=ec4899&point=ffffff&area=true" alt="Gráfico de atividade"/>
+  <img width="100%" src="https://ghchart.rshah.org/8b5cf6/mih-camargo" alt="Calendário de contribuições"/>
 </p>
 
 ---
