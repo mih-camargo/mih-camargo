@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:mimarc.camargo@gmail.com"><img src="https://img.shields.io/badge/E--mail-mimarc.camargo%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <img src="https://img.shields.io/badge/Status-Aberta%20a%20oportunidades-22C55E?style=for-the-badge&logo=handshake&logoColor=white" alt="Aberta a oportunidades"/>
-  <img src="https://komarev.com/ghpvc/?username=mih-camargo&color=ec4899&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mih-camargo.mih-camargo&left_color=%2324292f&right_color=%23ec4899&left_text=VISITAS" alt="Visitas ao perfil"/>
 </p>
 
 ---
